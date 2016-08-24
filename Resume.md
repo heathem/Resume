@@ -4,11 +4,11 @@
 
 Technical Experience Summary
 ----------------
-- *Ada Developers Academy: Jumpstart*, July 2016 - August 2016: Completed the [jumpstart](github.com/Ada-Developers-Academy/jump-start) curriculum from Ada Developers Academy. You can view my programming assignments [here](https://github.com/heathem/Ada-Jumpstart.git "Heather's Jumpstart Programs")
+- *Ada Developers Academy: Jumpstart*, July 2016 - August 2016: Completed the [jumpstart](github.com/Ada-Developers-Academy/jump-start) curriculum from Ada Developers Academy. You can view my programming assignments [here](https://github.com/heathem/Ada-Jumpstart.git "Heather's Jumpstart Programs").
 - *Computer Science Teaching Assistant*, September 2008 - June 2009: Worked 3 quarters as a teaching assistant at [Central Washington University](www.cwu.edu) for a logic based Visual Basic course.
 - *Microsoft/Cisco Networking Course*, September 2000 - June 2001: Completed a year-long Microsoft/Cisco Networking course at [Sno-Isle Skill Center](snoisletech.com) in Everett, WA as part of my high school education.
 
-## Work Experience
+Work Experience
 ----------------
 **Scientific Technician 2**, [Washington Department of Fish and Wildlife](www.wdfw.wa.gov), Bellingham, WA
 July 2015 - Present
@@ -50,7 +50,7 @@ July 2010 - August 2010
 September 2008 - June 2009
   Assisted students in a Visual Basic logic course and graded assignments. Side volunteer project: programmed a lego robot in Mindstorms to run a maze for a demonstration as part of a spring break event at CWU to get young girls interested in the science and technology fields.
 
-## Education
+Education
 ----------------
 **Bachelor of Science in Biology**, [Central Washington University](www.cwu.edu), Ellensburg, WA
 January 2008 - August 2010, Summa Cum Laude
