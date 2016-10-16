@@ -1,6 +1,6 @@
 # Heather McKinnon
 -----------------
-**Phone:** 425.417.7351 **Email:** mckinnohe@gmail.com **GitHub:** [github.com/heathem](https://github.com/heathem "Heather's GitHub")
+**Phone:** 425.417.7351 **Email:** mckinnonhe@gmail.com **GitHub:** [github.com/heathem](https://github.com/heathem "Heather's GitHub")
 
 Technical Experience Summary
 ----------------
